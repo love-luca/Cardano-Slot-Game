@@ -23,10 +23,6 @@ A fully decentralized **Slot Machine Game on the Cardano blockchain** built usin
 - **Frontend (Optional)**: React + TypeScript + Lucid or Mesh
 
 ---
-## 📁 Project Structure
-cardano-slot-game/ ├── smart-contracts/ # Plutus on-chain code │ └── SlotMachine.hs ├── frontend/ # React + Lucid or Mesh UI (optional) ├── offchain/ # Off-chain interaction scripts ├── test/ # Unit tests for contract logic ├── .env ├── README.md └── cabal.project
-
-
 
 ## How It Works
 - User connects wallet and places a bet in ADA.
@@ -46,4 +42,6 @@ cardano-slot-game/ ├── smart-contracts/ # Plutus on-chain code │ └─�
 
 - Always test on Cardano preview/testnet before mainnet deployment.
 
-
+## Contact
+-Twitter [@defai_maxi](https://x.com/defai_maxi)
+-Telegram [@rhettjel](https://t.me/rhettjel)
