@@ -10,7 +10,7 @@ A fully decentralized **Slot Machine Game on the Cardano blockchain** built usin
 - Provably fair random outcomes (pseudo-randomness via oracle or entropy tricks)
 - ADA betting and payout system
 - Frontend-ready endpoints for wallet integration (Nami, Eternl, Flint)
-- 🛡Secure smart contract interactions using Plutus V2
+- Secure smart contract interactions using Plutus V2
 
 ---
 
